@@ -1,2 +1,2 @@
-Ce projet me permet d'afficher Hello le world
+Ce projet dit hello le world
 
